@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking and Penetration Testing**
 
-- 📄 Know about my experience [CFSS in Cyber Security and Ethical Hacking Domain](CFSS in Cyber Security and Ethical Hacking Domain)
+- 📄 Know about my experience (CFSS in Cyber Security and Ethical Hacking Domain)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noor806&show_icons=true&locale=en&layout=compact" alt="noor806" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noor806&show_icons=true&locale=en" alt="noor806" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noor806&" alt="noor806" /></p>
