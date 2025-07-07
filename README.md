@@ -8,7 +8,7 @@
 - 📄 I'm passionate about cybersecurity, solving real-world security challenges, and improving my skills through hands-on practice.
 
 <h3 align="left">Certifications:</h3>
-<p> Google Cybersecurity Professional Certificate (Coursera) <a href="https://twitter.com/noorfatima806" target="blank"></p>
+<p> Google Cybersecurity Professional Certificate (Coursera) </p>
 <p> Certification of Internship with Letter of Recommendation (CFSS) </p>
 <p> ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™ (SkillFront) </p>
 <p> Word 2019 Associate (Microsoft) </p>
