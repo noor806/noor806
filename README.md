@@ -10,8 +10,8 @@
 <h3 align="left">Certifications:</h3>
 <p> Google Cybersecurity Professional Certificate (Coursera) </p>
 <p> Certification of Internship with Letter of Recommendation (CFSS) </p>
-<h4> ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™ (SkillFront) </h4>
-<h4> Word 2019 Associate (Microsoft) </h4>
+<p> ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™ (SkillFront) </p>
+<p> Word 2019 Associate (Microsoft) </p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
