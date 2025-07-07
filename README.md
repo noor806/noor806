@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Eman Fatima</h1>
-<h3 align="center">A passionate CYBER SECURITY EXPERT from Pakistan</h3>
+<h3 align="center">A passionate CYBER SECURITY ENTHUSIAST from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor806&label=Profile%20views&color=0e75b6&style=flat" alt="noor806" /> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking and Penetration Testing**
 
-- 📄 Know about my experience (CFSS in Cyber Security and Ethical Hacking Domain)
+- 📄 I'm passionate about cybersecurity, solving real-world security challenges, and improving my skills through hands-on practice.
 
+<h3 align="center">Certifications:</h3>
+- Google Cybersecurity Professional Certificate (Coursera)
+- Certification of Internship with Letter of Recommendation (CFSS)
+- ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™ (SkillFront)
+- Word 2019 Associate (Microsoft)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/noorfatima806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noorfatima806" height="30" width="40" /></a>
