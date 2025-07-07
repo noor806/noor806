@@ -8,10 +8,10 @@
 - 📄 I'm passionate about cybersecurity, solving real-world security challenges, and improving my skills through hands-on practice.
 
 <h3 align="center">Certifications:</h3>
-- Google Cybersecurity Professional Certificate (Coursera)
-- Certification of Internship with Letter of Recommendation (CFSS)
-- ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™ (SkillFront)
-- Word 2019 Associate (Microsoft)
+-  <h4> Google Cybersecurity Professional Certificate (Coursera) </h4>
+-  <h4> Certification of Internship with Letter of Recommendation (CFSS) </h4>
+-  <h4> ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™ (SkillFront) </h4>
+-  <h4> Word 2019 Associate (Microsoft) </h4>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
